@@ -1,6 +1,4 @@
-# column_widget_demo
-
-Column Widget Demo
+# Column Widget Demo
 
 ## Getting Started
 
